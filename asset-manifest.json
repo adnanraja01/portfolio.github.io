@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.bb2c68ba.css",
-    "main.js": "/portfolio.github.io/static/js/main.69f0580a.js",
+    "main.css": "/portfolio.github.io/static/css/main.3e6fe8ba.css",
+    "main.js": "/portfolio.github.io/static/js/main.931589fd.js",
     "static/media/dreamEducation.PNG": "/portfolio.github.io/static/media/dreamEducation.db98d95f9cc24fbb6ab5.PNG",
     "static/media/nature.jpg": "/portfolio.github.io/static/media/nature.6bc426b7c87a698a9b88.jpg",
     "static/media/CRM.PNG": "/portfolio.github.io/static/media/CRM.881d36f0fa12fc5f1c21.PNG",
@@ -17,11 +17,11 @@
     "static/media/mail.svg": "/portfolio.github.io/static/media/mail.6e74bdf73452e42bae8d4eeab277c30e.svg",
     "index.html": "/portfolio.github.io/index.html",
     "static/media/system-design.svg": "/portfolio.github.io/static/media/system-design.b4f2637eb8534671d2a46dc5f31a9b93.svg",
-    "main.bb2c68ba.css.map": "/portfolio.github.io/static/css/main.bb2c68ba.css.map",
-    "main.69f0580a.js.map": "/portfolio.github.io/static/js/main.69f0580a.js.map"
+    "main.3e6fe8ba.css.map": "/portfolio.github.io/static/css/main.3e6fe8ba.css.map",
+    "main.931589fd.js.map": "/portfolio.github.io/static/js/main.931589fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb2c68ba.css",
-    "static/js/main.69f0580a.js"
+    "static/css/main.3e6fe8ba.css",
+    "static/js/main.931589fd.js"
   ]
 }
