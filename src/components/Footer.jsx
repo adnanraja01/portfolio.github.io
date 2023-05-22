@@ -6,12 +6,12 @@ import LinkedInSvg from "../assets/svg/linkedin.svg";
 
 const Footer = () => {
   return (
-    <footer className="bg-black py-16 md:py-28 ">
+    <footer className="bg-black py-16 md:py-28 px-[2rem]">
       <div className="container mx-auto border-b border-grey">
-        <h1 className="text-center font-bold text-s48 text-grey">
+        <h1 className="text-center font-bold text-s40 lg:text-s48 text-grey">
           Let's Talk!
         </h1>
-        <div className="flex justify-center gap-x-[10rem] items-center my-[4rem]">
+        <div className="flex flex-col lg:flex-row justify-center gap-y-[2.5rem] gap-x-[10rem] items-center my-[4rem]">
           <div className="flex flex-col justify-center items-center gap-3 cursor-pointer">
             <img className="h-[3rem] w-[3rem]" src={PhoneSvg} alt="Phone" />
             <h4 className="text-grey text-s18 font-semibold">Call me</h4>

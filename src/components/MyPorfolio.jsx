@@ -31,7 +31,7 @@ const Data = [
 
 const MyPortfolio = () => {
   return (
-    <section className="bg-black py-16 md:py-32 ">
+    <section className="bg-black py-16 md:py-32 px-[2rem]">
       <div className="container mx-auto">
         <div className="flex justify-center">
           <h2 className="text-s48 font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff]">
@@ -41,7 +41,7 @@ const MyPortfolio = () => {
         <p className="mt-[2rem] text-grey text-s18 font-medium text-center">
           Proven track record of delivering successful software projects.
         </p>
-        <div className="grid grid-cols-2 gap-[4rem] mt-[6rem]">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-[4rem] mt-[6rem]">
           {Data.map((data, index) => (
             <ProjectCard
               key={index}

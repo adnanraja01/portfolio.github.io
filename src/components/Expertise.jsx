@@ -17,17 +17,17 @@ const Data = [
 ];
 const Expertise = () => {
   return (
-    <section className="bg-black py-16 md:py-20 ">
+    <section className="bg-black py-16 md:py-32 px-[2rem]">
       <div className="container mx-auto">
         <div className="flex justify-center items-center">
-          <h2 className=" text-s48 font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] ">
+          <h2 className="text-s40 lg:text-s48 font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] ">
             My Expertise
           </h2>
         </div>
-        <p className="text-s18 text-grey font-medium mt-[2rem] text-center">
+        <p className="text-s16 lg:text-s18 text-grey font-medium mt-[2rem] text-center">
           Leveraging the latest technologies to build cutting-edge applications.
         </p>
-        <div className="grid grid-cols-2 gap-[4rem] mt-[6rem]">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-[4rem] mt-[6rem]">
           {Data.map((data, index) => (
             <Card
               key={index}

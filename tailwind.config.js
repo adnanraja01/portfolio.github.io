@@ -27,6 +27,7 @@ module.exports = {
         s48: "4.8rem",
         s52: "5.2rem",
         s56: "5.6rem",
+        s60: "6rem",
         s64: "6.4rem",
       },
     },

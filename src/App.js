@@ -8,17 +8,17 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
-      <div className="Index_gradient_left"></div>
-      <div className="Index_gradient_right"></div>
+      {/* <div className="Index_gradient_left"></div>
+      <div className="Index_gradient_right"></div> */}
       <Home />
       <About />
       <Expertise />
       <MyPortfolio />
       <LetsConnect />
       <Footer />
-    </div>
+    </>
   );
 }
 
