@@ -10,8 +10,8 @@ function App() {
   return (
     <>
       <Navbar />
-      {/* <div className="Index_gradient_left"></div>
-      <div className="Index_gradient_right"></div> */}
+      <div className="Index_gradient_left"></div>
+      <div className="Index_gradient_right"></div>
       <Home />
       <About />
       <Expertise />

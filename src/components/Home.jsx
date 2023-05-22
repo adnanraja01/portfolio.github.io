@@ -2,14 +2,14 @@ import React from "react";
 
 const Home = () => {
   return (
-    <section className="bg-black min-h-screen min-w-full pt-[4.8rem] lg:pt-[6.8rem]">
+    <section className="bg-black min-h-screen min-w-full pt-[14rem] md:pt-[6.8rem]">
       <div className="container mx-auto w-full mt-[1rem] ">
         <div className="text-center text-white  pt-[12vh] md:pt-[22vh]">
           <h1 className="text-s36 sm:text-s48 md:text-s56 lg:text-s64  leading-tight tracking-wide font-bold ">
             Hey! I'm Raja Adnaan Altaf
           </h1>
           <div className="flex justify-center items-center">
-            <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] text-s36 sm:text-s48 md:text-s56 lg:text-s64 leading-tight tracking-tight font-bold mt-5">
+            <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] text-s36 sm:text-s48 md:text-s56 lg:text-s64 leading-tight tracking-tight font-bold mt-">
               Front-End Developer
             </h1>
           </div>
